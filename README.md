@@ -30,7 +30,7 @@ Haml is a markup language that describes HTML without using inline code. Haml fu
   
   
   };
-  `  
+    
 
 Haml is also a pain in the ass because it is VERY opinionated.  
 
