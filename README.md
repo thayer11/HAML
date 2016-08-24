@@ -14,15 +14,15 @@ Haml is a markup language that describes HTML without using inline code. Haml fu
   
   ```
   Var Omakase = function(Dramatic Reading Mark posted){
-    return (" https://www.youtube.com/watch?v=E99FnoYqoII ")
+    return ("``` https://www.youtube.com/watch?v=E99FnoYqoII ")
   };
-  ```
+  
 
   ```
   Var Who is god = function(Hollys twisted mind){
-     return (" http://memoryholly.bitballoon.com/ ") 
+     return ("```http://memoryholly.bitballoon.com/ ") 
   };
-  ```  
+  
 
 Haml is also a pain in the ass because it is VERY opinionated.  
 
