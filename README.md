@@ -24,10 +24,10 @@ Basic Idea:
 
 HTML/ERB
 
-<section class=”container”>
+<section class="container">
   <h1><%= post.title %></h1>
   <h2><%= post.subtitle %></h2>
-  <div class=”content”>
+  <div class="content">
     <%= post.content %>
   </div>
 </section>
