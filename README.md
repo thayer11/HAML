@@ -4,9 +4,9 @@ Haml is a markup language that describes HTML without using inline code. Haml fu
 
 
   ```javascript 
-  Var Haiku = function(Kyle's Voice){
-   return ("In the cicada's cry
-   There's no sign that can foretell
+  Var Haiku = function(Kyles Voice){
+   return ("In the cicadas cry
+   Theres no sign that can foretell
    How soon it must die.")
   };
   ```
@@ -19,7 +19,7 @@ Haml is a markup language that describes HTML without using inline code. Haml fu
   ```
 
   ```javascript
-  Var Who is god = function(Holly's twisted mind){
+  Var Who is god = function(Hollys twisted mind){
      return (" http://memoryholly.bitballoon.com/ ") 
   };
   ```  
