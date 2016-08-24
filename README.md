@@ -3,29 +3,20 @@ What is Haml?
 Haml is a markup language that describes HTML without using inline code. Haml is to Haiku as Rails is to Omakase. It is simple, clean, and relies on whitespace. 
 
 
-  
   Var Haiku = function(Kyle's Voice){
-   
-    return ("In the cicada's cry
-   
-    There's no sign that can foretell
-   
-    How soon it must die.")
-   
-    };
+   return ("In the cicada's cry
+   There's no sign that can foretell
+   How soon it must die.")
+  };
 
   
   Var Omakase = function(Dramatic Reading Mark posted){
-    
     return (" https://www.youtube.com/watch?v=E99FnoYqoII ")
-  
   };
 
   Var Who is god = function(Holly's twisted mind){
-    
-    return (" https://thayer11.github.io/Project-1/ http://memoryholly.bitballoon.com/ ") 
-
-};  
+     return (" https://thayer11.github.io/Project-1/ http://memoryholly.bitballoon.com/ ") 
+  };  
 
 Haml is also a pain in the ass because it is VERY opinionated.  
 
