@@ -16,6 +16,7 @@ Haml is a markup language that describes HTML without using inline code. Haml fu
   
   Var Omakase = function(Dramatic Reading Mark posted){
     
+    
     return (" https://www.youtube.com/watch?v=E99FnoYqoII ")
   
   
@@ -24,7 +25,9 @@ Haml is a markup language that describes HTML without using inline code. Haml fu
 
   Var Who is god = function(Hollys twisted mind){
      
+     
      return (" http://memoryholly.bitballoon.com/ ") 
+  
   
   };
   `  
